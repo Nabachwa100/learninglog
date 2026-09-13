@@ -63,6 +63,8 @@ The website is deployed using Netlify and can be accessed online:
 https://smack-kisubi-website.netlify.app/
 https://smack-kisubi-website.netlify.app/home
 
+![Website Screenshot](screenshots/Screenshot (111).png)
+
 HOW TO RUN THE PROJECT LOCALLY
 1. Clone the repository from GitHub.
 2. Open the project folder in Visual Studio Code.
