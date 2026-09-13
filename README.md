@@ -1,4 +1,4 @@
-SMACK SCHOOL WEBSITE
+SMACK SCHOOL WEBSITE nabachwa
 A static website built with plain HTML, CSS, and JavaScript.  
 
 FEATURES
