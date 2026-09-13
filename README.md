@@ -1,4 +1,6 @@
+
 SMACK SCHOOL WEBSITE denise
+
 A static website built with plain HTML, CSS, and JavaScript.  
 
 FEATURES
