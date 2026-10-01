@@ -28,4 +28,4 @@ I also learned about destructuring assignment. Destructuring allows values to be
 
 Finally, I studied variable scope. Scope determines where a variable can be accessed. Variables declared using 'let' and 'const' have block scope, meaning they are available within the block where they are declared. Variables declared inside a function belong to that function's scope. Variables declared outside functions or blocks can be accessed from wider or global scope depending on how they are declared.
 
-Overall, Week 2 helped me understand the basic structure of JavaScript, variables, data types, user interaction, type conversion, arrays, array methods, objects, object methods, destructuring, rest parameters, and variable scope.
+Overall, Week 2 helped me understand the basic structure of JavaScript, variables, data types, user interaction, type conversion, arrays, array methods, objects, object methods, destructuring, rest parameters, and variable scope.gu
