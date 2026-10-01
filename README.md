@@ -87,4 +87,6 @@ Through this project, I learned how to:
 
 Developed by Nabachwa100.
 LICENSE
-This project was developed for educational purposes.
+This project was developed for educational purposes
+
+[View SMACK School Website Repository](https://github.com/Nabachwa100/Smack-website)
